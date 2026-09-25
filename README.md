@@ -1,4 +1,4 @@
-# Andrea Cermaria
+# About me
 
 **Data Scientist | Quantitative Modelling & Data Engineering**
 
