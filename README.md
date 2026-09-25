@@ -4,7 +4,8 @@
 
 I combine economics and data science to build forecasting models, data pipelines and interactive analytical tools.
 
-My experience at the European Central Bank spans stress testing and End User Experience. I have developed and backtested forecasting models in Python, integrated them into a MATLAB framework, and built automated data pipelines and dashboards. I enjoy taking a problem from the initial analysis through to a tool people can use.
+My experience at the European Central Bank spans stress testing and information systems. I have developed and backtested forecasting models in Python and integrated them into a MATLAB framework. I have also processed large datasets using Spark and built automated data pipelines and dashboards. I enjoy taking a problem from the initial analysis through to a tool people can use.
+
 
 ## Selected projects
 
@@ -35,7 +36,7 @@ An interactive Python Dash application for exploring World Cup data and identify
 
 ## Tools
 
-Python · SQL · MATLAB · R · Polars · scikit-learn · Plotly Dash · Power BI · Git
+Python · SQL · MATLAB · R · Spark · Polars · scikit-learn · Plotly Dash · Power BI · Git 
 
 ## Background
 
